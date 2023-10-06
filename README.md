@@ -26,6 +26,5 @@ Skills: **REACT** / **TSX**  / **NextJs** / **HTML** / **CSS** / **LUA** / **Pyt
 - 📫 How to reach me: Email me at vitlyrey@gmail.com 
 - 😄 Pronouns: He/Him 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+
+<img src="github-metrics.svg" alt="Metrics">

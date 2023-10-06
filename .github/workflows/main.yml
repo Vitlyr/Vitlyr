@@ -25,10 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Noah-Haf
+          user: Vitly
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/London
+          config_timezone: USA/New-York
           plugin_traffic: yes
           plugin_people: yes
           plugin_people_limit: 5
